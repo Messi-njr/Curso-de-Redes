@@ -17,3 +17,15 @@ Arpanet (1969): Foi o "tataravô" da internet, criado para conectar computadores
 
 A ARPANET foi a primeira rede de computadores do mundo, criada em 1969 pela ARPA (hoje DARPA) nos Estados Unidos. Ela foi desenvolvida para conectar computadores de universidades e centros de pesquisa, permitindo a troca de dados de forma rápida e eficiente, mesmo em caso de falha de um dos pontos da rede.
 
+Livros pra ler:
+
+Trabalhando com redes de Computadores com a Camila CK (BASICAO)
+
+Informática Conceitos Veloso (BASICAO)
+
+Redes de Computadores 5 edição Tanenvaum (AVANÇADO)
+
+
+
+
+
