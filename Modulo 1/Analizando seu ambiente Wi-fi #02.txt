@@ -1,0 +1,21 @@
+24/11/2024
+
+Ensinando a mexer no Xirros Wi-fi networks 
+
+Normalmente o seu canal(channel) do roteador está no automático então você ver no aplicativo qual canal está.
+
+No aplicativo monstra o sinal que está fraco(sinal amarelo) ou forte(sinal verde),
+
+O aplicativo também monstra os sinais de Wi-fi que estão por perto.
+
+Padrão GSM
+O padrão GSM (Global System for Mobile Communications) é uma tecnologia padrão para redes móveis digitais amplamente utilizada no mundo. Originalmente desenvolvido na Europa, tornou-se o padrão global para comunicações móveis, especialmente para chamadas de voz e envio de mensagens de texto (SMS). Vamos entender os principais pontos:
+
+Como funciona?
+Imagina que todo mundo quer usar o mesmo fone de ouvido, mas tem só um adaptador. O GSM é esse "adaptador" que faz todo mundo falar na mesma língua: o celular, a operadora e a torre de sinal.
+Ele divide a rede em "faixinhas de tempo" (TDMA), então cada pessoa que tá falando no celular ganha um momento pra transmitir o que tá dizendo. É tipo uma fila bem rápida.
+
+Hoje em dia?
+Tá quase aposentado. A galera já tá no 4G e 5G, que são turbo comparado ao GSM. Mas ele abriu as portas pro celular virar o que é hoje: um jeito de se conectar em qualquer lugar.
+
+Ou seja, o GSM foi o tiozão das redes móveis, ensinou tudo pra geração nova (3G, 4G, 5G), e agora tá de boa curtindo a aposentadoria. 

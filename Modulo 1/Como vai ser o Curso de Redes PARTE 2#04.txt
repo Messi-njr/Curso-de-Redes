@@ -1,0 +1,33 @@
+24/11/2024
+
+O que vai ter no curso daqui pra frente?
+
+1)Calculo de IP 
+
+2)Classes de IP
+A,B,C,D,E
+
+3)Testar se o roteador está com defeito
+
+4)Mexer no CMD do computador 
+
+5)Se a  internet ta com lag ou n 
+
+6)Configuração de roteador 
+
+7)Descobre qual canal se deve colocar o roteador 
+
+8)Conversar sobre meios de transmissão 
+
+9)Tutorial de como fazer um cabo UTP
+
+10)Dicas de Cripar e os padrões 
+
+11)Cabeamento estruturado 
+
+12)Tutorial de como fazer uma tomada de superfície 
+
+13)Usar  simulador de redes
+
+14)
+

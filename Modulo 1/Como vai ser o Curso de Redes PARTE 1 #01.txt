@@ -1,0 +1,36 @@
+24/11/2024
+
+Introdução às redes de computadores
+
+O que são redes e sua importância.
+Tipos de redes (LAN, WAN, MAN).
+Conceitos básicos: cliente, servidor, topologia, protocolo.
+Componentes de uma rede
+
+Hardware de redes: roteadores, switches, hubs, placas de rede, cabos.
+Diferença entre conexões cabeadas e sem fio (Wi-Fi).
+Modelos de referência
+
+Modelo OSI (7 camadas) e TCP/IP.
+Função de cada camada e exemplos práticos.
+Endereçamento IP e sub-redes
+
+O que são endereços IP (IPv4 e IPv6).
+Máscara de sub-rede e como calcular.
+Ferramentas para gerenciamento de IP.
+Protocolos e serviços de rede
+
+Protocolos populares: TCP, UDP, HTTP, FTP, SMTP, DNS, DHCP.
+Como cada protocolo funciona na prática.
+Segurança em redes
+
+Principais ameaças às redes.
+Ferramentas e práticas de segurança (firewalls, criptografia, VPNs).
+Configuração de redes básicas
+
+Como configurar uma rede local.
+Testes de conectividade (Ping, Traceroute).
+Troubleshooting de redes
+
+Diagnóstico e solução de problemas comuns.
+Ferramentas para monitoramento e análise.
