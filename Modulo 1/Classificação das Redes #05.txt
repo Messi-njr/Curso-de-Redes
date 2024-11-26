@@ -1,0 +1,45 @@
+26:11:2024
+ 
+Tipos de servidor 
+
+Aqui está um resumo dos principais tipos de servidores:
+
+Servidor de Arquivos: Armazena e compartilha arquivos em uma rede.
+Servidor de Aplicações: Hospeda e executa aplicações para interação com usuários e bancos de dados.
+Servidor Web: Hospeda sites e responde a requisições HTTP/HTTPS.
+Servidor de Banco de Dados: Gerencia e fornece acesso a bancos de dados.
+Servidor de E-mail: Gerencia o envio, recebimento e armazenamento de e-mails.
+Servidor DNS: Traduz nomes de domínio em endereços IP para a comunicação na internet.
+Servidor Proxy: Age como intermediário, oferecendo segurança, anonimato e cache.
+Servidor de Backup: Realiza cópias de segurança de dados para recuperação em caso de falhas.
+Servidor de Virtualização: Hospeda máquinas virtuais e otimiza o uso de recursos.
+Servidor de Streaming: Fornece conteúdo multimídia (como vídeos e músicas) em tempo real.
+Servidor DHCP: Atribui automaticamente endereços IP a dispositivos em uma rede.
+Servidor de Autenticação: Verifica e valida identidades de usuários e dispositivos.
+Servidor de Jogos: Hospeda e gerencia jogos multiplayer online.
+Servidor de Contêineres: Gerencia e orquestra contêineres de software para ambientes virtuais.
+Servidor de VPN: Cria redes privadas seguras para conexões remotas.
+
+
+Beleza, bora lá! SDN, que significa **Software-Defined Networking** (ou Redes Definidas por Software), é tipo a revolução das redes. Imagina que antes as redes eram todas "raiz", com cada roteador e switch sendo um mano teimoso que só fazia o que tava no firmware dele. Pra configurar ou mudar algo, era quase um RPG: você tinha que ir mexendo em cada dispositivo manualmente.
+
+Com SDN, é como se a gente colocasse um **"modo coach"** na parada. Agora tem um **"cérebro central"** (o controlador SDN) que manda nos equipamentos. Esse cérebro dá as ordens e os dispositivos só executam. É como se fossem os NPCs obedecendo o jogador principal num jogo.
+
+Então, o SDN separa a **parte do "pensar" (controle)** da **parte do "fazer" (hardware)**. Isso deixa tudo mais flexível e fácil de gerenciar. Quer mudar a rota de um dado ou criar uma rede nova? É só mandar o comando pro controlador, e ele resolve no ato. Dá pra fazer em grande escala e de forma automática, tipo botar tudo no modo turbo.
+
+Ah, e pra quem gosta de programar, o SDN é tipo um "Playground das redes": você pode usar APIs e scripts pra brincar com as configurações. É como dar cheat codes pra quem trabalha com TI. 🚀
+
+O que é cliente e servidor
+
+O cliente é quem faz o pedido, tipo seu celular ou computador, que manda uma solicitação.
+O servidor é quem responde e entrega o que foi pedido, tipo a lanchonete que faz e entrega o x-bacon.
+
+Na prática:
+
+Quando você entra no navegador e digita "youtube.com", seu navegador (cliente) pede os vídeos pro servidor do YouTube.
+O servidor, que tem os vídeos guardados, responde enviando as informações pro seu dispositivo.
+Resumindo:
+
+Cliente = quem pede.
+Servidor = quem entrega.
+É uma troca de ideia rápida entre os dois. 😉
