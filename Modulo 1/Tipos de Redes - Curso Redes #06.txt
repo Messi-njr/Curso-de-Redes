@@ -1,0 +1,39 @@
+27:11:2024
+
+Tipos de Redes
+
+Rede ponto a ponto
+
+Rede ponto a ponto é quando os computadores se conectam diretamente entre si, sem precisar de um servidor central.
+
+Cliente Servidor
+
+Cliente-servidor é um modelo onde um computador (cliente) pede informações ou serviços, e outro (servidor) fornece.
+
+Rede Pan
+
+Rede PAN conecta dispositivos pessoais próximos, como celular e fone Bluetooth, usando tecnologias como Bluetooth ou Wi-Fi, com alcance de até 10 metros.
+
+Rede Lan
+
+Rede LAN conecta dispositivos dentro de um espaço limitado, como uma casa ou escritório, usando cabos ou Wi-Fi para compartilhar dados e recursos.
+
+Rede Campos 
+
+Rede Campus (ou Campus Area Network, CAN) é uma rede que conecta vários prédios ou áreas dentro de um mesmo campus, como em universidades, escolas ou empresas grandes. Ela cobre uma área maior que uma LAN, mas menor que uma MAN.
+
+Rede Metropolitan
+
+Uma rede metropolitan (ou MAN, Metropolitan Area Network) cobre uma área maior que uma LAN, mas menor que uma WAN. Ela conecta dispositivos e redes dentro de uma cidade ou uma região metropolitana.
+
+Rede Wide
+
+A rede WAN (Wide Area Network) é uma rede de grande escala que cobre uma área geográfica vasta, como um país ou até o mundo todo. Ela conecta várias redes locais (LANs) ou redes metropolitanas (MANs) e é usada para comunicação em distâncias longas.
+
+Oq é topologia física:
+
+A topologia física se refere à disposição física dos dispositivos e cabos em uma rede, ou seja, como os elementos da rede (como computadores, roteadores e switches) estão fisicamente conectados entre si.
+Barramento: Todos os dispositivos estão conectados a um único cabo, e os dados são transmitidos por esse cabo para todos os dispositivos.
+Estrela: Todos os dispositivos estão conectados a um ponto central, geralmente um switch ou roteador.
+Anel: Os dispositivos estão conectados em um círculo, e os dados circulam de um dispositivo para o outro até chegar ao destino.
+
