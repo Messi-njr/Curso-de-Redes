@@ -1,0 +1,31 @@
+28:11:2024
+
+			ENDEREÇAMENTO DE IP
+
+IPV4
+
+Resumindo, o IPv4 é a versão antiga, mas que ainda tá mandando ver na internet, segurando as pontas enquanto o IPv6 não domina tudo. É a base do rolê das redes!
+
+O que é IP?
+Imagina que o IP é o endereço do seu celular ou computador na internet. Assim como você tem um endereço na vida real (como a sua casa), o seu computador, celular ou qualquer dispositivo tem um endereço único na internet pra saber "onde" ele está e poder se comunicar com outros.
+
+IP é número binário?
+Sim! O IP, na real, é um número, mas não é um número normal como a gente tá acostumado a ver. Ele é um número binário, ou seja, um número feito só de 0s e 1s (como se fosse a linguagem da máquina, porque os computadores falam essa língua).
+
+Classe de IP
+
+A - 0 A 127 > 2 elevado a 14 > 16.777.216
+B - 128 A 191 > 2 elevado a 16 > 65.536
+C - 192 A 223 > 2 elevado a 8 > 256
+D - 224 A 239 > Teste de new tecnologias 
+E - 240 A 255 > Multicast, Unicast, Broadcast , Andycast
+
+Você vai saber qual é a classe nos primeiros números dele: >192<.168.1.10
+No caso nesse exemplo seria a alternativa C!
+
+Em resumo: as classes são só uma maneira de dividir e organizar o rolê da internet. Cada classe tem uma "personalidade" e uma missão específica no mundo IP.
+
+
+
+
+
