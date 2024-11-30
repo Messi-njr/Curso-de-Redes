@@ -1,0 +1,33 @@
+30:11:2024
+
+IPS restritos e privados 
+
+ Privados
+Os IPs privados são endereços IP reservados para uso dentro de redes privadas. Eles não podem ser roteados diretamente pela Internet pública e são usados em redes internas (como redes domésticas, empresariais, ou locais). Esses IPs são definidos pela norma RFC 1918 e pertencem a faixas específicas.
+
+Faixas de IPs privados:
+Classe A: 10.0.0.0 a 10.255.255.255 (16.777.216 endereços)
+Classe B: 172.16.0.0 a 172.31.255.255 (1.048.576 endereços)
+Classe C: 192.168.0.0 a 192.168.255.255 (65.536 endereços)
+
+Restritos
+O termo "IPs restritos" pode se referir a duas coisas principais:
+
+a) IPs bloqueados ou filtrados
+Esses são IPs que têm acesso limitado por regras de segurança, como firewalls ou listas de controle de acesso (ACLs). Isso pode ser feito por vários motivos:
+
+Bloqueio de acesso a certos serviços ou redes.
+Controle de tráfego para evitar invasões ou abuso.
+Restrições geográficas (como bloquear IPs de determinados países).
+
+Diferença resumida (na vibe):
+IP privado: É o apelido da galera da sua casa. Só faz sentido dentro da festa (rede).
+IP restrito: É o lugar onde a entrada é proibida ou tem um uso bem específico (tipo uma área VIP ou bloqueio geral).
+
+
+0.0.0.0 = Ip de inicialização do pc
+
+ 169.0.0.0 = Ip vai dizer que o roteador ta ruim
+
+
+
