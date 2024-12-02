@@ -1,0 +1,19 @@
+02:12:2024
+
+As portas amarelas são os switis
+
+A porta azul q faz a função do roteador, fulgo o cabo da internet
+
+Botao de reiniciar ou zerar
+
+botão de desligar 
+
+Depois q conectar o cabo no pc é so ir no CMD, Digita o 'ping e o site qualquer'
+
+Pra testar a placa de rede é so usar "ping 127.0.0.1" no cmd
+
+Pra saber cada servidor a internet passou pra chegar ao site desejado é só usar "tracert www.facebook.com" no CMD
+
+Pra monstrar o adaptador, rede e o cabo de rede é só usar "ipconfig", vai monstrar todos os ips, ate o endereço MAC.
+
+
