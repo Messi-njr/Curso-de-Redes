@@ -1,0 +1,9 @@
+04/12/2004	
+
+Para saber a configuração do roteador é só abrir o CMD , colocando o comando 'ipconfig'. Vai ate aonde está conectando a internet, aqui no caso ta via cabo então ta no 'Adaptador Ethernet Ethernet'.
+
+O endereço de ip vai ta logo abaixo o ultimo numero escrito 'Gateway Padrão..........000.000.000.0'.
+
+Em seguida coloca esse ip no navegador.
+
+Pra saber o login do seu roteador, geralmente a o login:admin e a senha:admin.
