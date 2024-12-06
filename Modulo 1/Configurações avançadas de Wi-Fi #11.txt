@@ -1,0 +1,9 @@
+05/12/2024
+
+CONFIGURANDO O WIFI PARA MELHOR DESEMPENHO
+
+Se quiser mudar o numero do canal abre o aplicativos XIRROS, e veja os canais dos roteadores pra n colocar igual.
+ai no site do seu roteador, vai ate canais e coloca o numero desejado.
+
+Modo pra amplicar  alcance do wifi
+Tira a opção padrão, e coloca a q tem o final n, q ai vai ter ms alcance o seu roteador.
