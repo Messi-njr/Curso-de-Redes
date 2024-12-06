@@ -1,0 +1,9 @@
+06/12/2004
+
+		CALCULO DE SUB-REDES
+
+O cálculo de sub-redes (ou subnetting) é uma técnica utilizada em redes de computadores para dividir uma única rede IP em várias sub-redes menores. Isso ajuda a melhorar a eficiência no uso de endereços IP, facilita o gerenciamento da rede e pode melhorar a segurança ao segmentar o tráfego.
+
+Cada sub-rede possui um intervalo de endereços IP e é definida pela combinação de um endereço de rede e uma máscara de sub-rede.
+
+Pra entender legal veja o vídeo kk
