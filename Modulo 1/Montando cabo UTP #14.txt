@@ -1,0 +1,11 @@
+Como montar um cabo
+
+Padrão T578a
+1-Verde/branco
+2-Verde
+3-Laranha/Branco
+4-Azul
+5-Azul/Branco
+6-Laranja
+7-Marrom/Branco
+8-Marrom
