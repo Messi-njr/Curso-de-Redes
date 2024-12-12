@@ -1,0 +1,11 @@
+12/12/2024
+
+Acessando o site do seu roteador com seu IP
+
+Vai na opção avançado é vai no wireless é na estatísticas.
+Vendo qual dispositivo q ta roubando seu wi-fi caso n seja vc
+vai no controle de acesso é dps vai coloca o ip desse usuário.
+
+Pra descobrir qual é o seu endereço mac no pc é so ir no 'cmd', e escreve o comando 'ipconfig /all' vai aparecer seu endereço.
+
+No celular é só ir na configuração é pesquisar.
