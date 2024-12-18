@@ -1,0 +1,6 @@
+17/12/24
+
+Simulador de redes como usar.
+
+Baixar o Simulador no site do CISCO PACKET TRACER, colocando no google já aparece.
+
