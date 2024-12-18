@@ -1,0 +1,10 @@
+18/12/2024
+
+Configurando o 1 roteador normalmente pelo site do seu roteador pelo ip, configuração padrão.
+
+Para estender o seu Wifi com um 2 roteador, liga ele no cabo no caso no pc 
+ou pelo wifi, abrindo igual o 1 o site via ip e configurando, próxima etapa é trocar o ip do segundo roteador na mesma rede do 1 roteador, 3 etapa trocar o ip do pc para o msm ip do 2 roteador, 4 etapa vai ate Parâmetro de Sistemas é vai ate WTS (caso teu roteador tenha o WDS) e aperta em habilitar o WTS, ai escolhe a rede que quer no caso q quer clonar, no seu caso clonar o 1 roteador. 5 etapa desativar o DHCP está geralmente na opção de Redes, e desabilita ele. 6 etapa voltar com ip automático do pc, já que na 3 etapa você trocou. 
+
+Qualquer coisa veja o vídeo júnior 
+
+link = https://www.youtube.com/watch?v=Sd61iFC37NE
