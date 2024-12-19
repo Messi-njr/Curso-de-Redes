@@ -1,0 +1,3 @@
+19;12;2024
+
+Explicando oq esta dando problema no estúdio de gravação, no caso foi a câmera que gerava um sinal wifi q estava interferindo o sinal do WDS, ent ele vai cabear o roteador 1 ate o estúdio é lá vai resolver o problema.
